@@ -10,6 +10,12 @@ Uživatel → LLM → tool call → Python funkce → tool result → LLM → od
 
 ## Instalace
 
+Z kořene repozitáře přejdi do složky úkolu:
+
+```bash
+cd Ukols/ukol-c-1
+```
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
